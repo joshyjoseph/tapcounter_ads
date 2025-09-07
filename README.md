@@ -16,19 +16,6 @@ Just tap the screen to count – no extra steps, no clutter. Perfect for tallyin
 
 ---
 
-## 📸 Screenshots
-(Add app screenshots here – main counter screen, reset action, etc.)
-
----
-
-## 🚀 Installation
-
-Download **TapCounter** from:
-- [Google Play Store](#) (Android)  
-- [Apple App Store](#) (iOS)  
-
----
-
 ## 🙏 Use Cases
 
 - 📿 Prayer / Japa mala / Rosary counting  
